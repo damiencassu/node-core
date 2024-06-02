@@ -1,0 +1,19 @@
+{
+  "name": "@damiencassu/node-core",
+  "version": "1.0.0",
+  "description": "A set of generic and basic functions for node servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiencassu/node-core.git"
+  },
+  "author": "Damien CASSU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damiencassu/node-core/issues"
+  },
+  "homepage": "https://github.com/damiencassu/node-core#readme"
+}
